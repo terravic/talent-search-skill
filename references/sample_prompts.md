@@ -1,6 +1,6 @@
 # Sample Prompts for Talent Search & Executive Intelligence
 
-Use these sample prompts directly in Gemini Enterprise App, Jetski, or any AI assistant equipped with the `talent-search` skill.
+Use these sample prompts directly in Gemini Enterprise App, Antigravity, or any AI assistant equipped with the `talent-search` skill.
 
 ---
 

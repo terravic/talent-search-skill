@@ -4,7 +4,7 @@
 [![Status: Production Ready](https://img.shields.io/badge/status-production--ready-green.svg)]()
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-An elite-level **Talent Intelligence Agent** skill and plugin designed for **Gemini Enterprise App**, **Jetski**, and other LLM agent ecosystems. Sourcing, verifying, and profiling executive leadership from public data sources into standardized, C-suite ready reports.
+An elite-level **Talent Intelligence Agent** skill and plugin designed for **Gemini Enterprise App**, **Antigravity**, and other LLM agent ecosystems. Sourcing, verifying, and profiling executive leadership from public data sources into standardized, C-suite ready reports.
 
 ---
 
@@ -50,7 +50,7 @@ Developed for high-visibility leadership benchmarking, executive talent acquisit
 ```text
 talent-search-skill/
 ├── SKILL.md                          # Main Skill definition with YAML frontmatter & instructions
-├── plugin.json                       # Plugin manifest for Jetski / Gemini Plugin framework
+├── plugin.json                       # Plugin manifest for Antigravity / Gemini Plugin framework
 ├── pyproject.toml                    # Python project packaging specification
 ├── requirements.txt                  # Python dependencies
 ├── scripts/                          # Python CLI engines and automation tools
@@ -80,7 +80,7 @@ talent-search-skill/
 
 ## 🚀 Quick Start & Integration
 
-### 1. Using in Gemini Enterprise App / Jetski
+### 1. Using in Gemini Enterprise App / Antigravity
 
 Place this directory in your agent's customization root or skills folder:
 - **Workspace Skills Root:** `_agents/skills/talent-search/` or `skills/talent-search/`
