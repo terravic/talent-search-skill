@@ -2,7 +2,7 @@
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Status: Production Ready](https://img.shields.io/badge/status-production--ready-green.svg)]()
-[![License: Internal / Enterprise](https://img.shields.io/badge/license-Enterprise-purple.svg)]()
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 An elite-level **Talent Intelligence Agent** skill and plugin designed for **Gemini Enterprise App**, **Jetski**, and other LLM agent ecosystems. Sourcing, verifying, and profiling executive leadership from public data sources into standardized, C-suite ready reports.
 
@@ -192,3 +192,9 @@ OK
 1. **Public Information Only:** All candidate data is sourced strictly from publicly available websites, official corporate directories, SEC filings, and news releases.
 2. **Privacy Standards:** No private contact details (personal phone numbers, residential addresses, private emails) are ever harvested or output.
 3. **Citation Integrity:** Every entry requires an active, verifiable public link.
+
+---
+
+## 📄 License
+
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/LICENSE) file for full terms and conditions.

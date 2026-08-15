@@ -11,8 +11,11 @@ requires-python = ">=3.9"
 authors = [
     { name = "Talent Intelligence Team" }
 ]
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 classifiers = [
     "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: Apache Software License",
     "Operating System :: OS Independent",
 ]
 dependencies = []
