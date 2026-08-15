@@ -1,0 +1,16 @@
+{
+  "name": "talent-search",
+  "version": "1.0.0",
+  "description": "Executive talent intelligence and search plugin for sourcing and profiling leaders from public data sources into executive-ready reports.",
+  "author": "Talent Intelligence Team",
+  "skills": [
+    "talent-search"
+  ],
+  "entrypoint": "scripts/talent_search.py",
+  "capabilities": [
+    "executive-sourcing",
+    "market-mapping",
+    "talent-benchmarking",
+    "structured-reporting"
+  ]
+}

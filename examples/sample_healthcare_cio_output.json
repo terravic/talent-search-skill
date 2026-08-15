@@ -1,0 +1,52 @@
+[
+  {
+    "index": 1,
+    "full_name": "Dr. Zafar Chaudhry, MD, MS, MBA",
+    "current_position": "Chief Digital & Information Officer (CDIO)",
+    "current_company": "Seattle Children's Hospital",
+    "relevant_background": "Former CIO at Cambridge University Hospitals NHS Trust and Valley Presbyterian Hospital. MD from Technical University of Silesia, MS Healthcare Informatics.",
+    "key_expertise_achievements": "Enterprise cloud EHR modernization (Epic on Azure), clinical generative AI copilots, enterprise pediatric digital health transformation, and HITRUST cybersecurity.",
+    "source_url": "https://www.seattlechildrens.org/about/leadership/",
+    "source_title": "Seattle Children's Leadership"
+  },
+  {
+    "index": 2,
+    "full_name": "Angela Yochem",
+    "current_position": "EVP, Chief Transformation & Digital Officer",
+    "current_company": "Novant Health",
+    "relevant_background": "Former EVP & Chief Digital Officer at Rent-A-Center; CIO at BDP International. MS Computer Science from Duke University.",
+    "key_expertise_achievements": "AI-powered patient triage systems, conversational AI in patient engagement, enterprise virtual care networks, and digital medicine ecosystem scaling.",
+    "source_url": "https://www.novanthealth.org/home/about-us/leadership.aspx",
+    "source_title": "Novant Health Executive Team"
+  },
+  {
+    "index": 3,
+    "full_name": "BJ Moore",
+    "current_position": "Executive Vice President & Chief Information Officer",
+    "current_company": "Providence St. Joseph Health",
+    "relevant_background": "27-year veteran at Microsoft (VP Enterprise Commerce); led Microsoft Azure migration across enterprise workloads. BS in Business from Colorado State University.",
+    "key_expertise_achievements": "Multi-hospital EHR consolidation, large-scale Microsoft Cloud for Healthcare deployment, clinical ambient voice documentation rollout, and IT cost optimization.",
+    "source_url": "https://www.providence.org/about/leadership",
+    "source_title": "Providence Leadership"
+  },
+  {
+    "index": 4,
+    "full_name": "Lisa Stump, MS, FASHP",
+    "current_position": "Chief Information Officer & SVP",
+    "current_company": "Yale New Haven Health & Yale School of Medicine",
+    "relevant_background": "30+ years in healthcare informatics and clinical operations; Fellow of the American Society of Health-System Pharmacists (FASHP). MS from Ohio State University.",
+    "key_expertise_achievements": "Academic medical center digital transformation, federated clinical data registries, predictive sepsis analytics, and clinical research IT enablement.",
+    "source_url": "https://www.ynhh.org/about/leadership/executive-team",
+    "source_title": "Yale New Haven Health Leadership"
+  },
+  {
+    "index": 5,
+    "full_name": "Craig Richardville, MBA, FACHE",
+    "current_position": "Chief Digital & Information Officer",
+    "current_company": "Intermountain Health",
+    "relevant_background": "Former CDIO at SCL Health and SVP & CIO at Atrium Health (Carolinas HealthCare System). Recipient of CHIME-HIMSS Healthcare CIO of the Year.",
+    "key_expertise_achievements": "AI governance frameworks in health systems, integrated telehealth platforms, enterprise ERP/EHR merger integrations, and digital workforce enablement.",
+    "source_url": "https://intermountainhealthcare.org/about/who-we-are/leadership/",
+    "source_title": "Intermountain Leadership"
+  }
+]

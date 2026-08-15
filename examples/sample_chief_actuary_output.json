@@ -1,0 +1,52 @@
+[
+  {
+    "index": 1,
+    "full_name": "Sarah Jenkins, FSA, MAAA",
+    "current_position": "Chief Actuary & SVP Health Analytics",
+    "current_company": "Anthem Blue Cross Blue Shield (Elevance Health)",
+    "relevant_background": "20+ years in actuarial leadership; previously VP Actuarial Pricing at UnitedHealth Group. MS in Actuarial Science from University of Wisconsin-Madison.",
+    "key_expertise_achievements": "Value-based care risk modeling, GLM predictive pricing, ML-driven medical cost trend forecasting, and CMS Stars rating optimization.",
+    "source_url": "https://www.elevancehealth.com/leadership",
+    "source_title": "Elevance Health Leadership"
+  },
+  {
+    "index": 2,
+    "full_name": "David M. Miller, FSA, FCAS",
+    "current_position": "Chief Actuary & Chief Risk Officer",
+    "current_company": "Centene Corporation",
+    "relevant_background": "Former Chief Actuary at WellCare Health Plans; prior actuarial consulting director at Milliman. BS in Mathematics from Purdue University.",
+    "key_expertise_achievements": "Medicaid managed care risk adjustment, enterprise risk management (ERM), IFRS 17 adoption, and pharmacy benefit analytics.",
+    "source_url": "https://www.centene.com/who-we-are/leadership.html",
+    "source_title": "Centene Leadership"
+  },
+  {
+    "index": 3,
+    "full_name": "Elena Rostova, FSA, CERA",
+    "current_position": "Executive Director & Chief Actuary, Commercial Markets",
+    "current_company": "Cigna Healthcare",
+    "relevant_background": "16 years at Cigna and Aetna leading underwriting and pricing teams. Fellow of Society of Actuaries (FSA) and Chartered Enterprise Risk Analyst (CERA).",
+    "key_expertise_achievements": "Commercial group pricing algorithms, stop-loss underwriting automation, employer digital health ROI modeling.",
+    "source_url": "https://newsroom.cigna.com/leadership",
+    "source_title": "Cigna Newsroom Leadership"
+  },
+  {
+    "index": 4,
+    "full_name": "Marcus Thorne, FSA, MAAA",
+    "current_position": "VP & Chief Actuary, Medicare Advantage",
+    "current_company": "Humana Inc.",
+    "relevant_background": "18 years in healthcare actuarial leadership; former Director of Actuarial Services at Blue Cross Blue Shield of Florida (Florida Blue).",
+    "key_expertise_achievements": "Medicare Advantage Bid Pricing Tool (BPT) submission, hierarchical condition categories (HCC) risk adjustment, dual-eligible SNP analytics.",
+    "source_url": "https://press.humana.com/leadership",
+    "source_title": "Humana Executive Leadership"
+  },
+  {
+    "index": 5,
+    "full_name": "Priya Patel, FSA, MAAA",
+    "current_position": "Chief Actuary & Head of Underwriting",
+    "current_company": "Oscar Health",
+    "relevant_background": "Pioneer in tech-enabled health plan pricing; previously Principal Actuary at Oliver Wyman. BS in Statistics from Columbia University.",
+    "key_expertise_achievements": "Real-time claims predictive modeling, individual ACA exchange risk pool analytics, automated underwriting engines, and insurtech scalability.",
+    "source_url": "https://www.hioscar.com/about",
+    "source_title": "Oscar Health Team"
+  }
+]
