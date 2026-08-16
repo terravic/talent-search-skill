@@ -6,6 +6,8 @@
 
 An elite-level **Talent Intelligence Agent** skill and plugin designed for **Gemini Enterprise App**, **Antigravity**, and other LLM agent ecosystems. Sourcing, verifying, and profiling executive leadership from public data sources into standardized, C-suite ready reports.
 
+![Talent Search Skill in Action](assets/talent_search_demo.jpg)
+
 ---
 
 ## 📋 Executive Overview
@@ -53,6 +55,8 @@ talent-search-skill/
 ├── plugin.json                       # Plugin manifest for Antigravity / Gemini Plugin framework
 ├── pyproject.toml                    # Python project packaging specification
 ├── requirements.txt                  # Python dependencies
+├── assets/                           # Visual assets and demo screenshots
+│   └── talent_search_demo.jpg
 ├── scripts/                          # Python CLI engines and automation tools
 │   ├── __init__.py
 │   ├── talent_search.py              # Sourcing engine, search strategy generator & exporter
@@ -197,4 +201,4 @@ OK
 
 ## 📄 License
 
-This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/LICENSE) file for full terms and conditions.
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for full terms and conditions.

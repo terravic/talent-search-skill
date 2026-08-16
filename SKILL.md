@@ -50,7 +50,7 @@ Devise targeted search queries across multiple high-confidence public channels:
 4. **Regulatory & SEC Filings (for public enterprises):**
    - `"[Company]" "DEF 14A" OR "executive officer" "[Target Title]"`
 
-For advanced search syntax and search patterns, refer to [search_strategies.md](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/references/search_strategies.md).
+For advanced search syntax and search patterns, refer to [search_strategies.md](references/search_strategies.md).
 
 ---
 
@@ -105,7 +105,7 @@ Assemble the gathered intelligence into the standardized Markdown table structur
 This skill includes Python automation scripts located in the `scripts/` directory:
 
 1. **Talent Search CLI / Engine:**
-   - Path: [scripts/talent_search.py](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/scripts/talent_search.py)
+   - Path: [scripts/talent_search.py](scripts/talent_search.py)
    - Generates search strategies, extracts candidate profiles, and formats outputs to Markdown, CSV, or JSON.
    - Example usage:
      ```bash
@@ -113,7 +113,7 @@ This skill includes Python automation scripts located in the `scripts/` director
      ```
 
 2. **Table & Output Validator:**
-   - Path: [scripts/validate_output.py](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/scripts/validate_output.py)
+   - Path: [scripts/validate_output.py](scripts/validate_output.py)
    - Validates that an output table strictly adheres to the required columns, link formats, and constraints.
    - Example usage:
      ```bash
@@ -121,14 +121,14 @@ This skill includes Python automation scripts located in the `scripts/` director
      ```
 
 3. **Prompt Generator:**
-   - Path: [scripts/generate_prompts.py](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/scripts/generate_prompts.py)
+   - Path: [scripts/generate_prompts.py](scripts/generate_prompts.py)
    - Generates optimized prompts for specific talent intelligence scenarios.
 
 ---
 
 ## Supporting References & Examples
-- **Search Query Guide:** [references/search_strategies.md](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/references/search_strategies.md)
-- **Table Schema & Standards:** [references/table_schema.md](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/references/table_schema.md)
-- **Sample Prompts:** [references/sample_prompts.md](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/references/sample_prompts.md)
-- **Healthcare CIO Sample Output:** [examples/sample_healthcare_cio_output.md](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/examples/sample_healthcare_cio_output.md)
-- **Chief Actuary Sample Output:** [examples/sample_chief_actuary_output.md](file:///usr/local/google/home/rolandmm/Projects/talent-search-skill/examples/sample_chief_actuary_output.md)
+- **Search Query Guide:** [references/search_strategies.md](references/search_strategies.md)
+- **Table Schema & Standards:** [references/table_schema.md](references/table_schema.md)
+- **Sample Prompts:** [references/sample_prompts.md](references/sample_prompts.md)
+- **Healthcare CIO Sample Output:** [examples/sample_healthcare_cio_output.md](examples/sample_healthcare_cio_output.md)
+- **Chief Actuary Sample Output:** [examples/sample_chief_actuary_output.md](examples/sample_chief_actuary_output.md)
